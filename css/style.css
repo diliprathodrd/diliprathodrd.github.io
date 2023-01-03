@@ -1,8 +1,13 @@
 @import url("https://fonts.googleapis.com/css2?family=Quicksand:wght@500&display=swap");
 body {
   font-family: "Quicksand", sans-serif;
-  background: linear-gradient(0deg, rgb(253, 143, 103), rgb(240, 131, 193));
+  background: #d3d3d3;
 }
+
+.profile-photo img {
+  border-radius: 50%;
+}
+
 section {
   width: 60%;
   margin: auto;
@@ -10,8 +15,8 @@ section {
   margin-top: 30px;
 }
 .links {
-  background: #457de3;
-  border: 2px solid #457de3;
+  background: #080A17;
+  border: 2px solid #080A17;
   padding: 15px;
   margin: 15px 0;
   transition: 0.2s ease-in;
@@ -23,7 +28,7 @@ a {
 }
 .links:hover {
   background: transparent;
-  color: #457de3;
+  color: #000;
 }
 @media screen and (max-width: 720px) {
   section {
