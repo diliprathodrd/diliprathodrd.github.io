@@ -32,7 +32,7 @@ Feel free to explore some of the projects I've worked on. I'm always excited to 
 - Ensured cross-device compatibility and responsiveness.
 - Implemented data persistence using local storage for saving and retrieving drawings.
 - Collaborated with users for iterative improvements and hosted the project on GitHub Pages.
-- [Link](https://diliprathodrd.github.io/drawApp/)
+- [Link](https://diliprathodrd.github.io/drawApp)
 - [Repository](https://github.com/diliprathodrd/drawApp)
 
 ### Project 2: Weather App
@@ -40,7 +40,7 @@ Feel free to explore some of the projects I've worked on. I'm always excited to 
 - Integrated the OpenWeatherMap API for real-time weather data.
 - Provided an intuitive interface for location-based weather information.
 - Hosted the project on GitHub Pages for easy access and display.
-- [Link](https://diliprathodrd.github.io/Weather-App/)
+- [Link](https://diliprathodrd.github.io/Weather-App)
 - [Repository](https://github.com/diliprathodrd/Weather-App)
 
 ### Project 3: Expense Tracker
@@ -49,13 +49,13 @@ Feel free to explore some of the projects I've worked on. I'm always excited to 
 - Created an intuitive and visually engaging user interface.
 - Ensured efficient data handling and responsive design, enhancing the user experience.
 - Hosted the project on Netlify for accessibility and to showcase my development skills.
-- [Link](https://pratidip-expense-tracker.netlify.app/)
+- [Link](https://pratidip-expense-tracker.netlify.app)
 - [Repository](https://github.com/diliprathodrd/expense-tracker)
 
 
 ## Connect with Me 📫
 - [LinkedIn Profile](https://www.linkedin.com/in/dilip-rathod)
-- [Personal Website/Blog](https://www.diliprathod.in/)
+- [Personal Website/Blog](https://www.diliprathod.in)
 
 ## Let's Collaborate 🤩
 I'm always open to new opportunities, collaborations, and interesting projects. If you'd like to work together or just want to chat about web development, feel free to reach out. Let's create something awesome together! 🚀
